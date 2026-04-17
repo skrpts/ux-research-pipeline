@@ -1,0 +1,43 @@
+# --- Identity ---
+id: "d573d5ea-6cbe-40be-9182-a42c7932d0e6"
+name: "ux-research-pipeline"
+display_name: "UX Research Pipeline"
+description: "Plan user interviews, collect responses, synthesise findings, generate personas, and create empathy maps"
+version: "1.0.0"
+engine: ">=1.0.0"
+
+# --- Attribution ---
+author:
+  name: "skrptiq"
+  url: "https://hub.skrptiq.ai"
+
+licence: "MIT"
+repository: "https://github.com/skrpts/ux-research-pipeline"
+
+# --- Discovery (Hub) ---
+category: "designer"
+tags:
+  - "ux-research"
+  - "user-interviews"
+  - "personas"
+  - "empathy-maps"
+  - "gate-steps"
+
+# --- Security & Access ---
+requires:
+  services:
+    - "llm-service"
+  permissions: []
+  data_handling:
+    - "pii"
+
+# --- Contents ---
+contents:
+  skills: 7
+  prompts: 7
+  workflows: 1
+  services: 1
+  sources: 0
+  documents: 0
+  assets: 0
+  total: 16
