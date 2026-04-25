@@ -3,7 +3,7 @@ id: "d573d5ea-6cbe-40be-9182-a42c7932d0e6"
 name: "ux-research-pipeline"
 display_name: "UX Research Pipeline"
 description: "Plan user interviews, collect responses, synthesise findings, generate personas, and create empathy maps"
-version: "1.0.0"
+version: "1.0.1"
 engine: ">=1.0.0"
 
 # --- Attribution ---
