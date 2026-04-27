@@ -35,19 +35,26 @@ composite_steps:
   - "consistency-check"
 execution:
   - skill: "research-planning"
+    prompt: "plan-research"
     step_type: "generation"
   - skill: "interview-collection"
+    prompt: "collect-responses"
     step_type: "validation"
   - skill: "research-synthesis"
+    prompt: "synthesise-findings"
     step_type: "synthesis"
   - skill: "persona-generation"
+    prompt: "generate-personas"
     step_type: "generation"
   - skill: "empathy-mapping"
+    prompt: "create-empathy-maps"
     step_type: "generation"
   - skill: "language-polish"
+    prompt: "polish-language"
     step_type: "content"
   - parallel:
     - skill: "consistency-check"
+      prompt: "check-consistency"
       step_type: "review"
 ---
 
