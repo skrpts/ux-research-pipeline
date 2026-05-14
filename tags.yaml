@@ -1,0 +1,19 @@
+- id: "ux-research"
+  title: "Ux Research"
+  description: "Ux Research workflows and tools"
+
+- id: "user-interviews"
+  title: "User Interviews"
+  description: "User Interviews workflows and tools"
+
+- id: "personas"
+  title: "Personas"
+  description: "Personas workflows and tools"
+
+- id: "empathy-maps"
+  title: "Empathy Maps"
+  description: "Empathy Maps workflows and tools"
+
+- id: "gate-steps"
+  title: "Gate Steps"
+  description: "Gate Steps workflows and tools"
