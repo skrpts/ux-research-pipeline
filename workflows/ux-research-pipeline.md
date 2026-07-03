@@ -37,21 +37,27 @@ execution:
   - skill: "research-planning"
     prompt: "plan-research"
     step_type: "generation"
+    output: { name: "research_plan", type: "text" }
   - skill: "interview-collection"
     prompt: "collect-responses"
     step_type: "validation"
+    output: { name: "responses", type: "text" }
   - skill: "research-synthesis"
     prompt: "synthesise-findings"
     step_type: "synthesis"
+    output: { name: "findings", type: "text" }
   - skill: "persona-generation"
     prompt: "generate-personas"
     step_type: "generation"
+    output: { name: "personas", type: "text" }
   - skill: "empathy-mapping"
     prompt: "create-empathy-maps"
     step_type: "generation"
+    output: { name: "empathy_maps", type: "text" }
   - skill: "language-polish"
     prompt: "polish-language"
     step_type: "content"
+    output: { name: "polished_report", type: "text" }
     context:
       voice_profile: "Neutral professional tone"
       grammar_strictness: "Professional"
@@ -59,6 +65,7 @@ execution:
     - skill: "consistency-check"
       prompt: "check-consistency"
       step_type: "review"
+      output: { name: "consistency_verdict", type: "decision" }
       context:
         voice_profile: "Neutral professional tone"
         consistency_strictness: "Standard"
