@@ -11,7 +11,7 @@ connections:
 
 ## Capability
 
-Produces structured empathy maps for each user persona, organising research evidence into four quadrants: Think, Feel, Say, and Do. Adds Pains and Gains sections to capture the emotional and practical dimensions of the user experience.
+Produces structured empathy maps for each user persona, organizing research evidence into four quadrants: Think, Feel, Say, and Do. Adds Pains and Gains sections to capture the emotional and practical dimensions of the user experience.
 
 ## When to Use
 
@@ -21,7 +21,7 @@ Produces structured empathy maps for each user persona, organising research evid
 
 ## What It Does
 
-1. **Quadrant mapping** — organises evidence into Think, Feel, Say, and Do categories for each persona
+1. **Quadrant mapping** — organizes evidence into Think, Feel, Say, and Do categories for each persona
 2. **Pain identification** — lists specific frustrations, obstacles, and anxieties each persona experiences
 3. **Gain identification** — lists desired outcomes, motivations, and success criteria
 4. **Evidence attribution** — links each empathy map entry to specific research findings or quotes

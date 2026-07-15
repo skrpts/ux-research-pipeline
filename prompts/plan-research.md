@@ -56,12 +56,12 @@ Produce:
 - Closing questions (2-3 questions)
 
 ### 3. Analysis Framework
-- How to code and categorise responses
+- How to code and categorize responses
 - Key themes to watch for
 - Success metrics for the research
 
 **Rules:**
-- Ask about behaviour, not preferences ("Tell me about the last time..." not "Do you prefer...")
+- Ask about behavior, not preferences ("Tell me about the last time..." not "Do you prefer...")
 - No leading questions
 - Include probes for each core question
 - Questions should be open-ended, not yes/no

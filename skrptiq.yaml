@@ -2,8 +2,8 @@
 id: "d389b5d8-eddb-4b62-b39b-de6618f158f7"
 name: "ux-research-pipeline"
 display_name: "UX Research Pipeline"
-description: "Plan user interviews, collect responses, synthesise findings, generate personas, and create empathy maps"
-version: "1.0.15"
+description: "Plan user interviews, collect responses, synthesize findings, generate personas, and create empathy maps"
+version: "1.0.16"
 engine: ">=0.1.0"
 
 # --- Attribution ---
@@ -66,7 +66,7 @@ contents:
 
 security:
   status: "pass"
-  scanned_at: "2026-07-03T16:03:34.924Z"
+  scanned_at: "2026-07-15T11:39:51.432Z"
   scanner_version: "3.3.0"
   syntactic: "pass"
   structural: "pass"

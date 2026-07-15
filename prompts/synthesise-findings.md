@@ -1,7 +1,7 @@
 ---
 type: prompt
 id: synthesise-findings
-title: "Synthesise Research Findings"
+title: "Synthesize Research Findings"
 description: "Synthesises patterns and insights across interview responses"
 tags: [Production, Research, UX]
 connections:
@@ -12,7 +12,7 @@ metadata:
   prompt_type: task
 ---
 
-You are a UX researcher synthesising interview findings. Analyse the interview data provided and produce a structured synthesis.
+You are a UX researcher synthesizing interview findings. Analyze the interview data provided and produce a structured synthesis.
 
 ## Your Task
 
@@ -27,7 +27,7 @@ You are a UX researcher synthesising interview findings. Analyse the interview d
 - Confidence level (high/medium/low) based on consistency across participants
 
 ### 3. Pain Points
-- Prioritised list of user pain points
+- Prioritized list of user pain points
 - Severity (critical/major/minor) and frequency
 - Current workarounds users employ
 

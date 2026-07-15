@@ -2,7 +2,7 @@
 type: prompt
 id: generate-personas
 title: "Generate Personas"
-description: "Creates evidence-based user personas from synthesised research"
+description: "Creates evidence-based user personas from synthesized research"
 tags: [Production, Research, UX]
 connections:
   - target: persona-generation
@@ -42,7 +42,7 @@ Create 2-3 distinct personas based on the research synthesis. For each persona:
 - Barriers to achieving their goals
 - What they've tried and abandoned
 
-**5. Behaviours and Patterns**
+**5. Behaviors and Patterns**
 - How they approach the task
 - Decision-making style
 - Information sources they trust
@@ -55,7 +55,7 @@ Create 2-3 distinct personas based on the research synthesis. For each persona:
 
 **Rules:**
 - Every characteristic must trace back to research data
-- Distinguish between observed behaviour and inferred motivation
+- Distinguish between observed behavior and inferred motivation
 - Note confidence level for each characteristic
 - Avoid stereotypes — let the data drive the persona
 

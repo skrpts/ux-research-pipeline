@@ -25,13 +25,13 @@ For each persona from the previous step, create a detailed empathy map with four
 - Complaints and praise in their own language
 
 ### Thinks
-- What they're thinking during the experience (inferred from behaviour and context)
+- What they're thinking during the experience (inferred from behavior and context)
 - Assumptions they hold
 - Concerns they may not voice
 - Mental models they apply
 
 ### Does
-- Observable behaviours from the research
+- Observable behaviors from the research
 - Workarounds and coping strategies
 - Steps they take to accomplish their goals
 - How they interact with existing tools/products

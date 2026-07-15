@@ -2,7 +2,7 @@
 type: workflow
 id: ux-research-pipeline
 title: UX Research Pipeline
-description: "Plan user interviews, collect responses, synthesise findings, generate personas, and create empathy maps"
+description: "Plan user interviews, collect responses, synthesize findings, generate personas, and create empathy maps"
 tags: [Production, Customer-Facing, Research, UX, Gate]
 connections:
   - target: research-planning
@@ -41,6 +41,7 @@ execution:
   - skill: "interview-collection"
     prompt: "collect-responses"
     step_type: "validation"
+    gate: true
     output: { name: "responses", type: "text" }
   - skill: "research-synthesis"
     prompt: "synthesise-findings"
@@ -73,7 +74,7 @@ execution:
 
 ## Overview
 
-This workflow takes you from research goals to actionable deliverables: interview plans, synthesised findings, evidence-based personas, and empathy maps. It uses a **gate step** to pause for you to conduct and paste actual interview data, making the output grounded in real user research rather than assumptions.
+This workflow takes you from research goals to actionable deliverables: interview plans, synthesized findings, evidence-based personas, and empathy maps. It uses a **gate step** to pause for you to conduct and paste actual interview data, making the output grounded in real user research rather than assumptions.
 
 ## Pipeline Stages
 
@@ -107,7 +108,7 @@ Invoke the **research-synthesis** skill to identify themes, key findings, pain p
 
 Invoke the **persona-generation** skill to create 2-3 evidence-based personas. Every characteristic traces back to the research data.
 
-**Output:** User personas with goals, pain points, behaviours, and design implications.
+**Output:** User personas with goals, pain points, behaviors, and design implications.
 
 ### Stage 5: Empathy Mapping
 

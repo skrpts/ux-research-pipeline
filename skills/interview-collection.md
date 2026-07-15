@@ -7,8 +7,6 @@ tags: [Production, Gate, Research, UX]
 connections:
   - target: llm-service
     type: runs_on
-metadata:
-  gate: true
 ---
 
 ## Capability
@@ -32,6 +30,6 @@ Pauses the workflow and presents the interview guide to the user, then waits for
 The gate prompt instructs the user on what to paste:
 
 - Raw interview transcripts or detailed notes
-- Responses from multiple participants (labelled by participant)
+- Responses from multiple participants (labeled by participant)
 - Any observational notes from the sessions
 - The more detail provided, the richer the synthesis

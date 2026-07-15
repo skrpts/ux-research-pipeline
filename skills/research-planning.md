@@ -11,7 +11,7 @@ connections:
 
 ## Capability
 
-Translates high-level research goals into a structured interview guide with specific questions, probes, and a research methodology tailored to the target user group. Produces questions that elicit genuine behaviours and motivations rather than hypothetical preferences.
+Translates high-level research goals into a structured interview guide with specific questions, probes, and a research methodology tailored to the target user group. Produces questions that elicit genuine behaviors and motivations rather than hypothetical preferences.
 
 ## When to Use
 
@@ -30,5 +30,5 @@ Translates high-level research goals into a structured interview guide with spec
 ## What It Does NOT Do
 
 - Conduct the interviews (that requires human interaction)
-- Analyse responses (use `research-synthesis` for that)
+- Analyze responses (use `research-synthesis` for that)
 - Recruit participants
