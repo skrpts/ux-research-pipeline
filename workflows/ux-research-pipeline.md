@@ -62,6 +62,10 @@ execution:
     context:
       voice_profile: "Neutral professional tone"
       grammar_strictness: "Professional"
+    bindings:
+      source:
+        from_step: "Empathy Mapping"
+        field: output
   - parallel:
     - skill: "consistency-check"
       prompt: "check-consistency"
@@ -70,6 +74,10 @@ execution:
       context:
         voice_profile: "Neutral professional tone"
         consistency_strictness: "Standard"
+      bindings:
+        source:
+          from_step: "Language Polish"
+          field: output
 ---
 
 ## Overview
